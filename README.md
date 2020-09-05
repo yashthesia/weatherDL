@@ -2,6 +2,9 @@
 Weather Prediction Using Deep Learning Techniques
 
 
+<img src="https://github.com/yashthesia/weatherDL/blob/master/weather.gif" width="40" height="40" />
+
+
 # Presented by
 15BCE120 – Meera Suthar
 15BCE126 – Yash Thesia
