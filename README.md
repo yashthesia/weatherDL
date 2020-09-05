@@ -2,7 +2,7 @@
 Weather Prediction Using Deep Learning Techniques
 
 
-<img src="https://github.com/yashthesia/weatherDL/blob/master/weather.gif" width="40" height="40" />
+<img src="https://github.com/yashthesia/weatherDL/blob/master/weather.gif" width="1000" height="500" />
 
 
 # Presented by
